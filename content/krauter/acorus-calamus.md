@@ -3,13 +3,7 @@ title: 'Kraut xyz'
 slug: 'Slug here'
 latin: 'lateinscher Name'
 description: 'short description here'
-featured_image: '/images/404.jpg'
-categories:  -  Kategorie
-tags:  
--  Development  
--  Go  
--  fast  
--  Blogging
+
 
 ---
 
