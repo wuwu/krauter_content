@@ -17,5 +17,5 @@ Diese in Nordamerika heimische Pflanze ist in Europa kaum bekannt. Sie ist eine 
 
 KULTUR. Der Fenchel—Riesenysop kann überall in gemäßigtem Klima kultiviert werden, ist für Gegenden mit warmem, mediterranem Klima jedoch nicht zu empfehlen. Die Pflanzen sind mit jedem Boden zufrieden und gedeihen dort am besten, wo sie kühle Witterung und volle Sonne vorfinden, vertragen aber auch leichten Schatten. Aus Samen angezogene Pflanzen benötigen 2 Jahre bis zur Blüte. Die Samen werden im Herbst an Ort und Stelle ausgesät; sie ruhen den Winter über im Boden und keimen im folgenden Frühjahr.
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbMTM2MDMwNDc0N119
+eyJoaXN0b3J5IjpbLTc3NTAwNzM5OSwxMzYwMzA0NzQ3XX0=
 -->
