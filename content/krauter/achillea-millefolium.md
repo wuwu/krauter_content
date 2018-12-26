@@ -4,7 +4,7 @@
 title: 'Gewöhnliche Schafgarbe'
 description: 'Heilpflanzenliste mit Heilwirkungen.'
 featured_image: '/images/annie-spratt-746148-unsplash.jpg'
-
+date: "2015-01-21"
 ---
 
 **ACHILLEA**
