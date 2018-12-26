@@ -1,7 +1,7 @@
   
 ---
-title: 'About'
-description: 'A few years ago, while visiting or, rather, rummaging about Notre-Dame, the author of this book found, in an obscure nook of one of the towers, the following word, engraved by hand upon the wall: ANANKE.'
+title: 'Krauter Compendium'
+description: 'Heilpflanzenliste mit Heilwirkungen.'
 featured_image: '/images/annie-spratt-746148-unsplash.jpg'
 
 ---
