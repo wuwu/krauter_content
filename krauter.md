@@ -8,99 +8,17 @@ A
 
 *A. millefolium (Gewöhnliche Schafgarbe)*
 
-  
+![enter image description here](https://lh3.googleusercontent.com/HKW96wDIpkera-V7JQL3JykAuGAv7jD59oxSsVo9mlbnmb-B-CMSfFyZxqMBAY4NwJbD3vOmh_nx "gaerar")Die Gewöhnliche Schafgarbe ist eine aufrechte Staude, die heute in erster Linie wegen ihrer Blütenköpfchen kultiviert wird. Die aromatisch duftenden Pflanzen werden 60—90cm hoch und haben stark zerteilte, 5—8cm lange, graugrüne Blätter. Vom Sommer bis zum Beginn des Herbstes erscheinen kleine weiße oder rosa Blütenköpfchen in 5—8 cm breiten, abgeflachten schirmähnlichen Dolden.
 
-Die Gewöhnliche Schafgarbe ist eine aufrechte Staude, die heute in erster Linie wegen ihrer Blütenköpfchen kultiviert wird. Die aroma—
+KULTUR. Die Gewöhnliche Schafgarbe ist in Mitteleuropa völlig winterhart. Sie benötigt volle Sonne, wächst in einem gut dränierten, wenig bis mäßig nährstoffreichen Boden sehr schnell und verträgt auch Trockenheit. Die Pflanzen können aus Samen angezogen werden, benötigen zur vollen Entwicklung aber 1—2 Jahre. Aus diesem Grunde vermehrt man sie besser durch Teilung, was alle 2—4 Jahre im Frühjahr geschehen sollte, damit die Pflanzen nicht zu groß werden. Die Teile werden in Abständen von 30——60 cm in der gleichen Tiefe, in der sie zuvor standen, wieder eingepflanzt. Zum Trocknen schneidet man die Blütenstengel, sobald sich die Köpfchen geöffnet haben, und hängt sie in Büscheln von 6—12 an einem trockenen, luftigen und schattigen Ort kopfunter auf.
+ 
+**ACORUS**
 
-tisch duftenden Pflanzen werden 60—90cm hoch und haben stark
+*A. calamus (Gewöhnlicher Kalmus)*
 
-zerteilte, 5—8cm lange, graugrüne Blätter. Vom Sommer bis zum
-
-Beginn des Herbstes erscheinen kleine weiße oder rosa Blütenköpf—
-
-chen in 5—8 cm breiten, abgeflachten schirmähnlichen Dolden.
-
-  
-
-KULTUR. Die Gewöhnliche Schafgarbe ist in Mitteleuropa völlig
-
-winterhart. Sie benötigt volle Sonne, wächst in einem gut dränierten,
-
-wenig bis mäßig nährstoffreichen Boden sehr schnell und verträgt
-
-auch Trockenheit. Die Pflanzen können aus Samen angezogen
-
-werden, benötigen zur vollen Entwicklung aber 1—2 Jahre. Aus
-
-diesem Grunde vermehrt man sie besser durch Teilung, was alle
-
-2—4 Jahre im Frühjahr geschehen sollte, damit die Pflanzen nicht zu
-
-groß werden. Die Teile werden in Abständen von 30——60 cm in der
-
-gleichen Tiefe, in der sie zuvor standen, wieder eingepflanzt. Zum
-
-Trocknen schneidet man die Blütenstengel, sobald sich die Köpfchen
-
-geöffnet haben, und hängt sie in Büscheln von 6—12 an einem
-
-trockenen, luftigen und schattigen Ort kopfunter auf.
-
-  
-
-ACORUS
-
-A. calamus (Gewöhnlicher Kalmus)
-
-  
-
-Der Gewöhnliche Kalmus ist eine ausdauernde und winterharte
-
-Sumpf— oder Wasserpflanze, deren nach Zitrone duftende Blätter und
-
-gleichfalls duftende (im Geschmack aber sehr bittere) Wurzelstöcke
-
-gelegentlich für Duftkissen verwendet werden. Früher dienten die
-
-Wurzelstöcke auch als Hausmittel gegen Koliken. Die dicht gedrängt
-
-stehenden, steif aufrechten, schwertförmigen Blätter werden in der
-
-Regel ungefähr 60 cm hoch, können in nährstoffreichem Boden aber
-
-auch die doppeite Höhe erreichen. Die 5—10 cm langen, kolbenförmi—
-
-gen Blütenstände sind dicht mit kleinen, grünlichen Blüten besetzt
-
-und stehen im Winkel von den langen Stengeln ab. Die Wurzelstöcke
-
-sind gewöhnlich 25 cm dick, im Innern weiß und fleischig, außen von
-
-einer rotbraunen Rinde umgeben.
-
-  
-
-KULTUR. Der Gewöhnliche Kalmus kann überall in Mitteleuropa
-
-kultiviert werden und gedeiht am besten in sehr feuchtem Boden und
-
-voller Sonne. Er ist mit jedem nährstoffreichen Gartenboden
-
-zufrieden, sofern er feucht gehalten wird, bringt aber nur Blüten
-
-hervor, wenn er im Wasser steht. Rhizomteile werden im Herbst oder
-
-zeitigen Frühjahr in Abständen von 30 cm in einer Tiefe von
-
-10—15cm eingepflanzt; sie breiten sich rasch aus. Zum Trocknen
-
-bestimmte Blätter können während der Wachstumsperiode jederzeit
-
-gepflückt werden. Wurzelstöcke erntet man von 2—3 Jahre alten
-
-Pflanzen im zeitigen Frühjahr oder Spätherbst.
-
-  
+Der Gewöhnliche Kalmus ist eine ausdauernde und winterharte Sumpf— oder Wasserpflanze, deren nach Zitrone duftende Blätter und gleichfalls duftende (im Geschmack aber sehr bittere) Wurzelstöcke gelegentlich für Duftkissen verwendet werden. Früher dienten die Wurzelstöcke auch als Hausmittel gegen Koliken. Die dicht gedrängt stehenden, steif aufrechten, schwertförmigen Blätter werden in der Regel ungefähr 60 cm hoch, können in nährstoffreichem Boden aber auch die doppeite Höhe erreichen. Die 5—10 cm langen, kolbenförmigen Blütenstände sind dicht mit kleinen, grünlichen Blüten besetzt und stehen im Winkel von den langen Stengeln ab. Die Wurzelstöcke sind gewöhnlich 25 cm dick, im Innern weiß und fleischig, außen von einer rotbraunen Rinde umgeben.
+ KULTUR. Der Gewöhnliche Kalmus kann überall in Mitteleuropa kultiviert werden und gedeiht am besten in sehr feuchtem Boden und voller Sonne. Er ist mit jedem nährstoffreichen Gartenboden zufrieden, sofern er feucht gehalten wird, bringt aber nur Blüten hervor, wenn er im Wasser steht. Rhizomteile werden im Herbst oder zeitigen Frühjahr in Abständen von 30 cm in einer Tiefe von 10—15cm eingepflanzt; sie breiten sich rasch aus. Zum Trocknen bestimmte Blätter können während der Wachstumsperiode jederzeit gepflückt werden. Wurzelstöcke erntet man von 2—3 Jahre alten Pflanzen im zeitigen Frühjahr oder Spätherbst.
+ 
 
 AGASTACHE
 
