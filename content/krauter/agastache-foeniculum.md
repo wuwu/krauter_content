@@ -1,9 +1,9 @@
 ---
-title: 'Kraut xyz'
-slug: 'Slug here'
-latin: 'lateinscher Name'
-description: 'short description here'
-
+title: 'Fenchel—Riesenysop'
+slug: 'Fenchel'
+latin: 'Agastache foeniculum'
+description: '75—90cm hohe Staude, deren Laub nach Anis duftet'
+date: "26.12.2018"
 ---
 
 

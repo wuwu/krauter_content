@@ -1,8 +1,8 @@
 ---
-title: 'Kraut xyz'
-slug: 'Slug here'
-latin: 'lateinscher Name'
-description: 'short description here'
+title: 'Gewöhnlicher Kalmus'
+slug: 'kalmus'
+latin: 'Acorus calamus'
+description: 'Kalmus ist eine ausdauernde und winterharte Sumpf— oder Wasserpflanze'
 
 
 ---
@@ -16,8 +16,3 @@ Der Gewöhnliche Kalmus ist eine ausdauernde und winterharte Sumpf— oder Wasse
 
 
  KULTUR. Der Gewöhnliche Kalmus kann überall in Mitteleuropa kultiviert werden und gedeiht am besten in sehr feuchtem Boden und voller Sonne. Er ist mit jedem nährstoffreichen Gartenboden zufrieden, sofern er feucht gehalten wird, bringt aber nur Blüten hervor, wenn er im Wasser steht. Rhizomteile werden im Herbst oder zeitigen Frühjahr in Abständen von 30 cm in einer Tiefe von 10—15cm eingepflanzt; sie breiten sich rasch aus. Zum Trocknen bestimmte Blätter können während der Wachstumsperiode jederzeit gepflückt werden. Wurzelstöcke erntet man von 2—3 Jahre alten Pflanzen im zeitigen Frühjahr oder Spätherbst.
- 
-
-<!--stackedit_data:
-eyJoaXN0b3J5IjpbLTE5NzgwMjc5NDVdfQ==
--->
