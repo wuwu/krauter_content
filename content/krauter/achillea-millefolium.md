@@ -1,7 +1,7 @@
   
 ---
 
-title: 'Krauter Compendium'
+title: 'Gewöhnliche Schafgarbe'
 description: 'Heilpflanzenliste mit Heilwirkungen.'
 featured_image: '/images/annie-spratt-746148-unsplash.jpg'
 
