@@ -1,13 +1,4 @@
 ---
-title: blabla
-author: wuwu
-
----
-
-
-
-  
----
 title: 'Kraut xyz'
 slug: 'Slug here'
 latin: 'lateinscher Name'
@@ -21,6 +12,7 @@ tags:
 -  Blogging
 
 ---
+
 
 **ACHILLEA**
 
