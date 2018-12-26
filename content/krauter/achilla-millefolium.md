@@ -12,7 +12,7 @@ title: 'Kraut xyz'
 slug: 'Slug here'
 latin: 'lateinscher Name'
 description: 'short description here'
-featured_image: '/images/404.jpg'
+featured_image: 'https://upload.wikimedia.org/wikipedia/commons/a/ad/Achillea_millefolium_-_roosa_harilik_raudrohi_Valingu.jpg'
 categories:  -  Kategorie
 tags:  
 -  Development  
